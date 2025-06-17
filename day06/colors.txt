@@ -1,4 +1,4 @@
-Blue
-Green
-Yellow
-Red
+blue
+green
+yellow
+red
